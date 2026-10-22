@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         optPOScenter: быстрый каталог и ЗИП
 // @namespace    https://optposcenter.ru/
-// @version      0.2.6
+// @version      0.2.7
 // @description  Быстрый поиск по каталогу, локальные позиции, заметки, связи с оборудованием и просмотр фото.
 // @match        https://optposcenter.ru/*
 // @run-at       document-idle
@@ -15,8 +15,8 @@
 // @connect      rutube.ru
 // @author       Jeronimo701
 // @license      LicenseRef-Jeronimo701-Personal-Use-1.0
-// @updateURL    https://gist.githubusercontent.com/jeronimo701/07e2f03c4c61dd2661308e8375062e52/raw/Optposcenter_catalog_plus.user.js
-// @downloadURL  https://gist.githubusercontent.com/jeronimo701/07e2f03c4c61dd2661308e8375062e52/raw/Optposcenter_catalog_plus.user.js
+// @updateURL    none
+// @homepageURL  https://github.com/jeronimo701/Optposcenter-catalog-plus
 // ==/UserScript==
 
 (function () {
